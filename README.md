@@ -1,2 +1,2 @@
 简单的登录界面
-![TIM@F(3PJVS)N(F`HAKB%)N](https://github.com/night-see-code/android-login-view/assets/168337781/d76b88ed-1999-4184-8596-2cfca0c79f5c)
+![K2N_PCV44IV(474(H2A1{NJ](https://github.com/night-see-code/android-login-view/assets/168337781/6b04c403-8323-458b-a42a-e4c1541a2f31)
